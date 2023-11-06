@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="proyectosdwa.es" id="10da86ff-b7fb-42e1-a9fe-d54a5b029843" port="22" nameFormat="DESCRIPTIVE" username="profesor" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

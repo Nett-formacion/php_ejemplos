@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../correcion_practicas/.idea/correcion_practicas.iml" filepath="$PROJECT_DIR$/../correcion_practicas/.idea/correcion_practicas.iml" />
+      <module fileurl="file://$USER_HOME$/hugo/nett/.idea/inaem.iml" filepath="$USER_HOME$/hugo/nett/.idea/inaem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nett.iml" filepath="$PROJECT_DIR$/.idea/nett.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nett_ejercicios/.idea/nett_ejercicios.iml" filepath="$PROJECT_DIR$/../nett_ejercicios/.idea/nett_ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tv/.idea/tv.iml" filepath="$PROJECT_DIR$/../tv/.idea/tv.iml" />
+      <module fileurl="file://$USER_HOME$/hugo/videos/.idea/videos.iml" filepath="$USER_HOME$/hugo/videos/.idea/videos.iml" />
+      <module fileurl="file://$USER_HOME$/hugo/web/.idea/web.iml" filepath="$USER_HOME$/hugo/web/.idea/web.iml" />
+    </modules>
+  </component>
+</project>

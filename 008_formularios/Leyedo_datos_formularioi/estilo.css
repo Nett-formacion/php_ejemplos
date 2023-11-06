@@ -1,0 +1,16 @@
+.listado{
+width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+    font-size: 2em;
+    font-family: calibri, Arial, Monaco;
+    color: #0000e6;
+
+
+}

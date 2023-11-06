@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d8b269a-8447-447b-883f-1db6505602d4" name="nett" url="http://proyectosdwa.es">
+        <fileTransfer rootFolder="/httpdocs/manuel/" host="proyectosdwa.es" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="33bd9d44-2cd5-47db-a4d5-e92b2fab2df7" name="vesta" url="http://infenlaces.com">
+        <fileTransfer rootFolder="/web/manuel.infenlaces.com/public_html" host="infenlaces.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="56f430a1-6f05-4e29-86fb-e797552bcb45" name="local" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
