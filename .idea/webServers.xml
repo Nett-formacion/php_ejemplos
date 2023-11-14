@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="2d8b269a-8447-447b-883f-1db6505602d4" name="nett" url="http://proyectosdwa.es">
-        <fileTransfer rootFolder="/httpdocs/manuel/" host="proyectosdwa.es" port="21">
+        <fileTransfer rootFolder="/var/www/vhosts" accessType="SFTP" host="proyectosdwa.es" port="22" sshConfigId="efc3d6e1-a573-442e-817a-a87e66cf303c" sshConfig="root@proyectosdwa.es:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
