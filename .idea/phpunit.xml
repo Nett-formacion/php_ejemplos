@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/Pilar Laborda/examen_laravel/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/Raúl Acín Herrero/EntregaExamenLaravel/examenRAH/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/MIGUEL ÁNGEL LÓPEZ RUIZ/examen_laravel/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/SAMUEL BONET GONZÁLEZ/laravelExamenManuel/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/ANDRÉS JULIÁN ARAGÓN GUERRERO/examen/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/JEANINE MURCIA SUÁREZ/JeanineMurcia_Examen/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/MANUEL DE MIGUEL CALVO/ExamenServidor2Ev/tests" />
+        <option value="$PROJECT_DIR$/../correcion_practicas/practicas/examen_2023_vespertino/Mario Moros/ExamenServidor2Ev/tests" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d8b269a-8447-447b-883f-1db6505602d4" name="nett" url="http://proyectosdwa.es">
+        <fileTransfer rootFolder="/var/www/vhosts" accessType="SFTP" host="proyectosdwa.es" port="22" sshConfigId="efc3d6e1-a573-442e-817a-a87e66cf303c" sshConfig="root@proyectosdwa.es:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="33bd9d44-2cd5-47db-a4d5-e92b2fab2df7" name="vesta" url="http://infenlaces.com">
+        <fileTransfer rootFolder="/web/manuel.infenlaces.com/public_html" host="infenlaces.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="56f430a1-6f05-4e29-86fb-e797552bcb45" name="local" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

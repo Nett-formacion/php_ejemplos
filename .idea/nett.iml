@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/Clases/Controller" isTestSource="false" packagePrefix="Controller\" />
+      <sourceFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/Clases/Model" isTestSource="false" packagePrefix="Model\" />
+      <sourceFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/Clases/View" isTestSource="false" packagePrefix="View\" />
+      <excludeFolder url="file://$MODULE_DIR$/011_composer/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/013_cookies/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/013_cookies/vendor/statickidz/php-google-translate-free" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/10_crud/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/3_acceso_basico_con_env/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/4_visualizando_atributos/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/5_valorar_conexion/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_1_insert/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/6_2_insert/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_1_delete/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/7_2_delete/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_1_update/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/8_2_update/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_1_select/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/014_base_datos/mysqli/9_2_select/vendor/vlucas/phpdotenv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="inaem" />
+    <orderEntry type="module" module-name="nett_ejercicios" />
+    <orderEntry type="module" module-name="web" />
+    <orderEntry type="module" module-name="videos" />
+    <orderEntry type="module" module-name="correcion_practicas" />
+    <orderEntry type="module" module-name="tv" />
+    <orderEntry type="module" module-name="bd" />
+  </component>
+</module>
