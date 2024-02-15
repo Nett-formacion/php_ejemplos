@@ -1,21 +1,22 @@
 <?php
-$a = $_POST['nombre'];
-echo $a;
-?>
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-<form action="a.php" method="POST">
-    <input type="text" name="nombre" id="">
-    <input type="submit" value="Enviar">
-</form>
 
-</body>
-</html>
+$saludo = function ($nombre){
+    $hora = date("H");
+    $msj = match($hora){
+    6,7,8,9,10,11,12,13,14 =>"Buenos días",
+    15,16,17,18,19 => "Buenas tardes",
+    default =>"Buenas noches"
+    };
+    return ("Hola $nombre, $msj");
+
+
+};
+
+$sumar = function ($a, $b){
+    return $a+$b;
+};
+
+echo "<h1>{$sumar(5,15)}</h1>";
+echo "Saludando {$saludo("Juan")}";
+
+

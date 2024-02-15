@@ -1,13 +1,18 @@
 h1 {
     color: darkmagenta;
-    font-size: 4em;
+    font-size: 2em;
     margin-left: 10%;
 }
 
 .parrafo {
     font-size: 1.8em;
-    margin-left: 5%;
     color: maroon;
+    background: white;
+    margin: 5%;
+    padding: 1%;
+    border: #0d5aa7;
+    border-radius: 5px;
+    box-shadow: 5px 5px aliceblue ;
 }
 .titulo {
     font-size: 1.9em;
@@ -19,14 +24,14 @@ h1 {
 
 h2 {
 
-    font-size: 3em;
+    font-size: 1.8em;
     margin-left: 30%;
 / / text-align: center;
 }
 
 h3 {
 
-    font-size: 2.5em;
+    font-size: 1.5em;
     margin-left: 10%;
 / / text-align: center;
 }
